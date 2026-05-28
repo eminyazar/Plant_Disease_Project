@@ -12,6 +12,8 @@ Designed with a modern microservices architecture, separating the heavy AI infer
 * **Confidence Scoring:** Returns a transparent probability score for every diagnosis.
 * **Modern UI/UX:** A clean, responsive interface built with Tailwind CSS.
 <img width="485" height="650" alt="image" src="https://github.com/user-attachments/assets/e3d3d1d4-f9a3-4a19-b73f-d7b7b0ecb363" />
+<br>
+<img width="700" height="700" alt="confusion_matrix" src="https://github.com/user-attachments/assets/db783896-8144-4efd-b9b0-93ae6925445d" />
 
 ## 🏗️ Architecture & Tech Stack
 The project is decoupled into two main services to ensure scalability:
